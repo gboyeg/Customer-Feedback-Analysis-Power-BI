@@ -1,6 +1,6 @@
-# Customer-Feedback-Analysis-Power-BI
+# Customer-Feedback-Analysis
 ## Business Request:
-The business request is to analyze customer feedback ratings, sentiment, and responses to evaluate product performance. By identify patterns in customer satisfaction and categorize feedback by customer type, location, and product category. Enable business teams to visualize and filter feedback data by different attributes such as product, sentiment, customer type, and referral source. The insights will be instrumental in shaping the response time and resolution status for support interactions and tracking customer loyalty points and correlate with feedback sentiment and resolution success.
+The business request is to analyze customer feedback ratings, sentiment, and responses to evaluate product performance. By identifying patterns in customer satisfaction and categorize feedback by customer type, location, and product category. Enable business teams to visualize and filter feedback data by different attributes such as product, sentiment, customer type, and referral source. The insights will be instrumental in shaping the response time and resolution status for support interactions and tracking customer loyalty points and correlate with feedback sentiment and resolution success.
 ## Stakeholders requirements: 
 •	What is the Distribution of feedback types (Praise vs. Complaints).
 
