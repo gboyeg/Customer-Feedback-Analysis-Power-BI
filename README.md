@@ -36,12 +36,17 @@ Developed a comprehensive data model to support analysis and reporting by:
 
 •	Establishing relationships between tables to enable complex data interactions and accurate reporting.
 
+![customer satisfaction model](https://github.com/user-attachments/assets/5afafb22-95d3-49ea-b5ce-d7b90af5be2f)
+Customer Feedback Analysis Model
+
 ### 4.	Data Visualization:
 •	Build interactive visuals including bar charts, pie charts, and trend lines to display the feedback distribution, sentiment breakdown, and customer loyalty correlations.
 
 •	Implement slicers and filters to allow users to drill down into specific customer groups, products, or feedback types.
 
 •	Show metrics for response time, resolution effectiveness, and overall sentiment for support interactions.
+
+![customer feedback analysis img](https://github.com/user-attachments/assets/0d90a45e-3f87-4bd4-9988-7e0dd49c6544)
 
 ## USE CASE:
 **Customer Support Teams:** To monitor customer sentiment and response effectiveness, helping them improve customer relations and response times.
